@@ -2,6 +2,7 @@
 
 Only to be used for the lols.
 
+- (optional) Watch the Mr. Trololo video: https://www.youtube.com/watch?v=oavMtUWDBTM
 - Clone this repo
 - Make sure node is installed
 - From your CLI, `cd` into the project directory and run the following:
